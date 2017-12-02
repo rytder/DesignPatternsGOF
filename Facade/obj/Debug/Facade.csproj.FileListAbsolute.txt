@@ -1,0 +1,6 @@
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Facade\bin\Debug\Facade.exe.config
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Facade\bin\Debug\Facade.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Facade\bin\Debug\Facade.pdb
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Facade\obj\Debug\Facade.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Facade\obj\Debug\Facade.pdb
