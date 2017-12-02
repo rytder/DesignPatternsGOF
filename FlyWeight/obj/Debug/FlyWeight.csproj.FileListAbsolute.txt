@@ -1,0 +1,7 @@
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\FlyWeight\bin\Debug\FlyWeight.exe.config
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\FlyWeight\bin\Debug\FlyWeight.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\FlyWeight\bin\Debug\FlyWeight.pdb
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\FlyWeight\obj\Debug\FlyWeight.csprojResolveAssemblyReference.cache
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\FlyWeight\obj\Debug\FlyWeight.csproj.CoreCompileInputs.cache
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\FlyWeight\obj\Debug\FlyWeight.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\FlyWeight\obj\Debug\FlyWeight.pdb
