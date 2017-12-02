@@ -4,3 +4,9 @@ C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Observer\bin\Debug
 C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
 C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Observer\obj\Debug\Observer.exe
 C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Observer\obj\Debug\Observer.pdb
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Observer\bin\Debug\Observer.exe.config
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Observer\bin\Debug\Observer.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Observer\bin\Debug\Observer.pdb
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Observer\obj\Debug\Observer.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Observer\obj\Debug\Observer.pdb

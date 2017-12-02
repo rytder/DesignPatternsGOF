@@ -4,3 +4,9 @@ C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Builder\bin\Debug\
 C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
 C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Builder\obj\Debug\Builder.exe
 C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Builder\obj\Debug\Builder.pdb
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Builder\bin\Debug\Builder.exe.config
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Builder\bin\Debug\Builder.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Builder\bin\Debug\Builder.pdb
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Builder\obj\Debug\Builder.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Builder\obj\Debug\Builder.pdb

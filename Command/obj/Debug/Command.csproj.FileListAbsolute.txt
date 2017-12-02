@@ -1,0 +1,6 @@
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Command\bin\Debug\Command.exe.config
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Command\bin\Debug\Command.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Command\bin\Debug\Command.pdb
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Command\obj\Debug\Command.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Command\obj\Debug\Command.pdb

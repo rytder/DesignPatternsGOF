@@ -5,3 +5,9 @@ C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\AbstractFactory\ob
 C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
 C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
 C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\obj\Debug\AbstractFactory.pdb

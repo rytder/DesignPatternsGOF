@@ -1,0 +1,6 @@
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Factory\bin\Debug\Factory.exe.config
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Factory\bin\Debug\Factory.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Factory\bin\Debug\Factory.pdb
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Factory\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Factory\obj\Debug\Factory.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Factory\obj\Debug\Factory.pdb

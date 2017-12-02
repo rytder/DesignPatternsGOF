@@ -4,3 +4,9 @@ C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Strategy\bin\Debug
 C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
 C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Strategy\obj\Debug\Strategy.exe
 C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Strategy\obj\Debug\Strategy.pdb
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Strategy\bin\Debug\Strategy.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Strategy\bin\Debug\Strategy.pdb
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Strategy\obj\Debug\Strategy.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Strategy\obj\Debug\Strategy.pdb

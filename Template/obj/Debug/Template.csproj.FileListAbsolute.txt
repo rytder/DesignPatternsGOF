@@ -4,3 +4,10 @@ C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Template\bin\Debug
 C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
 C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Template\obj\Debug\Template.exe
 C:\Users\Rytis\Source\Repos\DesignPatternsGOF\AbstractFactory\Template\obj\Debug\Template.pdb
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Template\bin\Debug\Template.exe.config
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Template\bin\Debug\Template.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Template\bin\Debug\Template.pdb
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Template\obj\Debug\Template.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Template\obj\Debug\Template.pdb
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Template\obj\Debug\Template.csprojResolveAssemblyReference.cache

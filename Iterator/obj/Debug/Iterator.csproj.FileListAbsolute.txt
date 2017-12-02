@@ -1,0 +1,6 @@
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Iterator\bin\Debug\Iterator.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Iterator\bin\Debug\Iterator.pdb
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Iterator\obj\Debug\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Iterator\obj\Debug\Iterator.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Iterator\obj\Debug\Iterator.pdb
