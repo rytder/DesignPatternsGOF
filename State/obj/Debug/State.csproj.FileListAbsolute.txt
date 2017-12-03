@@ -1,0 +1,7 @@
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\State\bin\Debug\State.exe.config
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\State\bin\Debug\State.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\State\bin\Debug\State.pdb
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\State\obj\Debug\State.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\State\obj\Debug\State.pdb

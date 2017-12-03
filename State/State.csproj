@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0A68204E-5B5F-4B54-8560-ECB5B2B55845}</ProjectGuid>
+    <ProjectGuid>{335C467B-C60E-45B7-B147-20B0E27107DF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FlyWeight</RootNamespace>
-    <AssemblyName>FlyWeight</AssemblyName>
+    <RootNamespace>State</RootNamespace>
+    <AssemblyName>State</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,6 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
