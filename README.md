@@ -17,7 +17,7 @@ The Gang of Four (GoF) design patterns implemented in C# (real world examples)
 ### Structural Patterns
 -  ADAPTER	    `Match interfaces of different classes` :hourglass_flowing_sand:
 -  BRIDGE	      `Separates an object’s interface from its implementation` :hourglass_flowing_sand:
--  COMPOSITE	  `A tree structure of simple and composite objects` :hourglass_flowing_sand:
+-  COMPOSITE	  `A tree structure of simple and composite objects` :heavy_check_mark:
 -  DECORATOR	  `Add responsibilities to objects dynamically` :hourglass_flowing_sand:
 -  FACADE	      `A single class that represents an entire subsystem` :heavy_check_mark:
 -  FLYWEIGHT	  `A fine-grained instance used for efficient sharing` :heavy_check_mark:
