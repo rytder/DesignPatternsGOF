@@ -21,7 +21,7 @@ The Gang of Four (GoF) design patterns implemented in C# (real world examples)
 -  DECORATOR	  `Add responsibilities to objects dynamically` :hourglass_flowing_sand:
 -  FACADE	      `A single class that represents an entire subsystem` :heavy_check_mark:
 -  FLYWEIGHT	  `A fine-grained instance used for efficient sharing` :heavy_check_mark:
--  PROXY	      `An object representing another object` :hourglass_flowing_sand:
+-  PROXY	      `An object representing another object` :heavy_check_mark:
 
 ### Behavioral Patterns
 -  CHAIN OF RESP.	  `A way of passing a request between a chain of objects` :hourglass_flowing_sand:
