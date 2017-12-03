@@ -1,0 +1,7 @@
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Composite\bin\Debug\Composite.exe.config
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Composite\bin\Debug\Composite.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Composite\bin\Debug\Composite.pdb
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Composite\obj\Debug\Composite.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Composite\obj\Debug\Composite.pdb
