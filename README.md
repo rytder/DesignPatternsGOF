@@ -19,7 +19,7 @@ The Gang of Four (GoF) design patterns implemented in C# (real world examples)
 -  BRIDGE	      `Separates an object’s interface from its implementation` :hourglass_flowing_sand:
 -  COMPOSITE	  `A tree structure of simple and composite objects` :hourglass_flowing_sand:
 -  DECORATOR	  `Add responsibilities to objects dynamically` :hourglass_flowing_sand:
--  FACEDE	      `A single class that represents an entire subsystem` :heavy_check_mark:
+-  FACADE	      `A single class that represents an entire subsystem` :heavy_check_mark:
 -  FLYWEIGHT	  `A fine-grained instance used for efficient sharing` :heavy_check_mark:
 -  PROXY	      `An object representing another object` :hourglass_flowing_sand:
 
@@ -31,7 +31,7 @@ The Gang of Four (GoF) design patterns implemented in C# (real world examples)
 -  MEDIATOR	        `Defines simplified communication between classes` :hourglass_flowing_sand:
 -  MEMENTO	        `Capture and restore an object's internal state` :hourglass_flowing_sand:
 -  OBSERVER	        `A way of notifying change to a number of classes` :heavy_check_mark:
--  STATE	          `Alter an object's behavior when its state changes` :hourglass_flowing_sand:
+-  STATE	          `Alter an object's behavior when its state changes` :heavy_check_mark:
 -  STRATEGY	        `Encapsulates an algorithm inside a class` :heavy_check_mark:
 -  TEMPLATE         `Method	Defer the exact steps of an algorithm to a subclass` :heavy_check_mark:
 -  VISITOR	        `Defines a new operation to a class without change` :hourglass_flowing_sand:
