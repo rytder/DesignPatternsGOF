@@ -1,0 +1,6 @@
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Proxy\bin\Debug\Proxy.exe.config
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Proxy\bin\Debug\Proxy.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Proxy\bin\Debug\Proxy.pdb
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Proxy\obj\Debug\Proxy.exe
+C:\Users\Rytis\Source\Repos\DesignPatternsGOF\Proxy\obj\Debug\Proxy.pdb

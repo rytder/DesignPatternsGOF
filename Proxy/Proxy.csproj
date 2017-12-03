@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0A68204E-5B5F-4B54-8560-ECB5B2B55845}</ProjectGuid>
+    <ProjectGuid>{A70FB5CE-3531-43D1-AF62-E5DBDDB0AC65}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>FlyWeight</RootNamespace>
-    <AssemblyName>FlyWeight</AssemblyName>
+    <RootNamespace>Proxy</RootNamespace>
+    <AssemblyName>Proxy</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
