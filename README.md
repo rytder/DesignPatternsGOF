@@ -24,7 +24,7 @@ The Gang of Four (GoF) design patterns implemented in C# (real world examples)
 -  PROXY	      `An object representing another object` :heavy_check_mark:
 
 ### Behavioral Patterns
--  CHAIN OF RESP.	  `A way of passing a request between a chain of objects` :hourglass_flowing_sand:
+-  CHAIN OF RESP.	  `A way of passing a request between a chain of objects` :heavy_check_mark:
 -  COMMAND	        `Encapsulate a command request as an object` :heavy_check_mark:
 -  INTERPRETER	    `A way to include language elements in a program` :hourglass_flowing_sand:
 -  INTERATOR	      `Sequentially access the elements of a collection` :heavy_check_mark:
